@@ -13,3 +13,9 @@ C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Proje
 C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\ReCap_Project\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

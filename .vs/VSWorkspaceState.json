@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\DataAccess",
+    "\\Core\\DataAccess\\EntityFramework",
+    "\\Core\\Enitites",
+    "\\DataAccess",
+    "\\DataAccess\\Abstract",
+    "\\DataAccess\\Concrete",
+    "\\DataAccess\\Concrete\\EntityFramework",
+    "\\Entities"
+  ],
+  "SelectedNode": "\\DataAccess\\Concrete\\EntityFramework\\CarRentContext.cs",
+  "PreviewInSolutionExplorer": false
+}
